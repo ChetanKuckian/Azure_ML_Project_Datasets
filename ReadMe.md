@@ -1,0 +1,1 @@
+This repository is created by and for students learning microsoft azure.It contains the dataset we use each week to increase our knowledge in the field of machine learning.All the datasets used have their original datasource metioned in each week's readme file.
